@@ -3,7 +3,7 @@
 //DEPS io.quarkus:quarkus-resteasy-jackson
 //DEPS io.quarkus:quarkus-jdbc-postgresql
 
-//Q:CONFIG quarkus.datasource.db-kind=h2
+//Q:CONFIG quarkus.datasource.db-kind=postgresql
 
 package org.acme.hibernate.orm.panache;
 
